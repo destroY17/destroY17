@@ -1,16 +1,30 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
-<!--
-**destroY17/destroY17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <div id="badges">
+    <a href="telegram">
+      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    </a>
+    <a href="gmail">
+      <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    </a>
+  </div>
 
-Here are some ideas to get you started:
+  <h1>
+    Hey there, I'm Andrei 👋
+  </h1>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me:
+I am a 4th year student of Lobachevsky University 🎓   
+Interested in backend development 💻
+
+### :hammer_and_wrench: My technical stack :
+* Java
+* Spring (Core, Web, Boot)
+* Hibernate
+* PostgreSQL
+* Maven
+* JUnit 5
+* Git
+* Postman
