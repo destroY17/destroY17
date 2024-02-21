@@ -22,10 +22,12 @@ Interested in backend development 💻
 
 ### :hammer_and_wrench: My technical stack :
 * Java
-* Spring (Core, Web, Boot)
-* Hibernate
-* PostgreSQL
+* Spring (Core, Web, Data, Boot, AOP)
+* Hibernate, MyBatis
+* PostgreSQL, Liquibase
 * Maven
-* JUnit 5
-* Git
-* Postman
+* JUnit 5, Mockito, AssertJ
+* RabbitMQ, Apache Kafka
+* Git, GitHub, GitLab
+* Postman, Swagger
+* Jira, Confluence
